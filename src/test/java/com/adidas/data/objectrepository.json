@@ -1,0 +1,13 @@
+{
+	"object_repository": {
+		"sample_page": "//a[contains(text(),'Sample Page')]",
+		"back": "//a[contains(text(),\"Back\")]",
+		"email_error_msg": "//*[@id=\"error-page\"]/p[2]",
+		"comment_msg": "//em[contains(text(),'Your comment is awaiting moderation.')]",
+		"comment": "//*[@id=\"comment\"]",
+		"auther": "//*[@id=\"author\"]",
+		"email": "//*[@id='email']",
+		"url": "//*[@id='url']",
+		"post_comment_btn": "//*[@id='submit']"
+	}
+}

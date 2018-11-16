@@ -1,0 +1,9 @@
+{
+	"config": {
+		"browser": "chrome",
+		"url": "http://store.demoqa.com",
+		"comment_data": "\\src\\test\\java\\com\\adidas\\data\\commentdata.json",
+		"object_repository": "\\src\\test\\java\\com\\adidas\\data\\objectrepository.json",
+		"chrome_exe": "\\driver\\windows\\chromedriver_2_38.exe"
+	}
+}
